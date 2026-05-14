@@ -1,0 +1,27 @@
+# Dataset y media (copyright / personal) — nunca a GitHub
+/dataset/
+/media/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Build artifacts (lambdas)
+backend/**/build/
+backend/**/*.zip
+backend/**/layer/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

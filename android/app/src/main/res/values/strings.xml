@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">SoundLens</string>
+    <string name="send">Send</string>
+    <string name="select_audio">Select demo audio</string>
+
+    <!-- Endpoints -->
+    <!-- Lambda Identify (la de comparar) -->
+    <string name="identify_base_url">https://ismnl3rnp0.execute-api.us-west-2.amazonaws.com/</string>
+    <!-- Lambda Plot (la de la gráfica) -->
+    <string name="plot_base_url">https://un073u3nd0.execute-api.us-west-2.amazonaws.com/</string>
+
+    <!-- Demo dropdown -->
+    <string-array name="demo_audio_entries">
+        <item>Example 1</item>
+        <item>Example 2</item>
+        <item>Example 3</item>
+        <item>Example 4</item>
+    </string-array>
+
+    <!-- ResultActivity -->
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="create_match_graph">CREATE MATCH GRAPH</string>
+
+    <!-- (Opcional) textos parametrizables que ya usas en pantalla -->
+    <string name="offset_frames_fmt">Offset frames: %1$d</string>
+    <string name="best_consequent_matches_fmt">Best consequent matches: %1$d</string>
+    <string name="total_matches_fmt">Total matches: %1$d</string>
+
+    <!-- (Opcional) toasts de diagnóstico -->
+    <string name="no_audio_url">No audio URL (s3_url / s3_key / path)</string>
+    <string name="streaming_from">Streaming (%1$s)</string>
+    <string name="playback_error_fmt">Playback error (%1$d/%2$d)</string>
+    <string name="downloading_audio">Downloading audio…</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- agrega SOLO si no existen ya en tu proyecto -->
+    <color name="sl_bg">#121315</color>
+    <color name="sl_divider">#22FFFFFF</color>
+</resources>

@@ -1,0 +1,96 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Local configuration
+local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Android
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.log
+*.tmp
+*.iml
+
+# Generated files
+gen/
+bin/
+out/
+*.lock
+*.orig
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Keystore files
+*.jks
+*.keystore
+
+# Environment / secrets
+.env
+*.env
+aws_credentials.json
+AwsConfig.kt
+
+# Cache and temporary
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# Gradle build output
+app/build/
+*/build/
+
+# Kotlin
+*.kotlin_module
+
+# Android Studio
+/.gradle/
+/.idea/
+/local.properties
+/.navigation/
+/*.ipr
+/*.iws
+/*.iml
+
+# Lambda packaging or large zips
+*.zip
+*.tar.gz
+
+# S3 audio uploads (optional)
+uploads/
+results/
+*.wav
+*.m4a

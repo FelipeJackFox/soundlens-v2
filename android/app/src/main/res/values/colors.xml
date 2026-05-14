@@ -1,0 +1,25 @@
+<resources>
+    <color name="sl_black">#0F0F12</color>
+    <color name="sl_black_elev">#15161A</color>
+    <color name="sl_text_primary">#FFFFFF</color>
+    <color name="sl_text_secondary">#A9B0B7</color>
+    <color name="sl_green">#29E07E</color>
+    <color name="sl_green_dim">#1DBF66</color>
+    <color name="sl_card">#1A1B21</color>
+
+    <!-- Genre chip palette -->
+    <color name="genre_chip_pink">#E3507A</color>
+    <color name="genre_chip_blue">#3F7DD8</color>
+    <color name="genre_chip_purple">#7B5FEA</color>
+    <color name="genre_chip_orange">#F18F3B</color>
+    <color name="genre_chip_teal">#2EB7A0</color>
+    <color name="genre_chip_default">#2D2F3A</color>
+
+    <!-- básicos -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- usados por activity_result.xml -->
+    <color name="dark_gray">#1A1C1F</color>
+    <color name="gray">#A0FFFFFF</color> <!-- blanco al 63% para textos secundarios -->
+</resources>

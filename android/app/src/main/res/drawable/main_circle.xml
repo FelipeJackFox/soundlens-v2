@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <size android:width="180dp" android:height="180dp"/>
+    <solid android:color="@color/sl_card"/>
+</shape>

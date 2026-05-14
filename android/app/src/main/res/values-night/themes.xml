@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Mismo look en modo noche: dark + acentos verdes -->
+    <style name="Theme.SoundLens" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/sl_black</item>
+        <item name="android:navigationBarColor">@color/sl_black</item>
+        <item name="colorPrimary">@color/sl_green</item>
+        <item name="colorPrimaryVariant">@color/sl_green_dim</item>
+        <item name="colorSecondary">@color/sl_green</item>
+        <item name="android:windowBackground">@drawable/sl_bg</item>
+        <item name="android:textColorPrimary">@color/sl_text_primary</item>
+        <item name="android:textColorSecondary">@color/sl_text_secondary</item>
+    </style>
+</resources>
